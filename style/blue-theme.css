@@ -1,0 +1,16 @@
+/* 
+==================================================================
+  Project Name: Space Related Business
+  File Name: blue-theme.css
+  Description: Defines the blue theme for the website
+  Author: Owen Plimer
+  Created On: 23 May 2025
+  Last Updated: 25 May 2025
+  Version: 1.0.0
+==================================================================
+*/
+
+:root {
+    --primary: #DAE8FC;
+    --secondary: #6C8EBF;
+}

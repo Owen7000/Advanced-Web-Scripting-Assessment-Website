@@ -1,0 +1,19 @@
+{
+    "equipment": [
+      {
+        "name": "Crew Dragon",
+        "description": "You can use the alternatives, but you might not get the crew back...",
+        "condition": "Slightly Used"
+      },
+      {
+        "name": "Cygnus",
+        "description": "Really good for taking supplies to the ISS. We might've dropped it, but it should be fine. Right?",
+        "condition": "Dented"
+      },
+      {
+        "name": "Hubble Space Telescope",
+        "description": "It was meant to be a military spy telescope... but we found it in the back of the warehouse. Turn it the other way and it's surprisingly usefull",
+        "condition": "Old"
+      }
+    ]
+  }

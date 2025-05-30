@@ -1,0 +1,16 @@
+/* 
+==================================================================
+  Project Name: Space Related Business
+  File Name: yellow-theme.css
+  Description: Defines the yellow theme for the website
+  Author: Owen Plimer
+  Created On: 23 May 2025
+  Last Updated: 25 May 2025
+  Version: 1.0.0
+==================================================================
+*/
+
+:root {
+    --primary: #FFF2CC;
+    --secondary: #D6B656;
+}

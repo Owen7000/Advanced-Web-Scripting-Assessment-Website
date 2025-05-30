@@ -1,0 +1,19 @@
+{
+    "equipment": [
+      {
+        "name": "Ares 1",
+        "description": "Useful if you want to waste US government money!",
+        "condition": "Slightly Wet"
+      },
+      {
+        "name": "N1",
+        "description": "Would you like the worlds largest non-nuclear explosion? (3 times). This rocket is for you!",
+        "condition": "In Pieces"
+      },
+      {
+        "name": "New Shepard",
+        "description": "Yes, we know what it looks like. Just keep it to yourself... IT's A ROCKET!!!",
+        "condition": "Used"
+      }
+    ]
+  }

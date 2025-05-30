@@ -1,0 +1,19 @@
+{
+    "equipment": [
+      {
+        "name": "RS25",
+        "description": "The most complicated rocket engine ever produced. Just let it dry for a month between uses",
+        "condition": "Very Very Hot"
+      },
+      {
+        "name": "Shuttle Derived Solid Rocket Booster",
+        "description": "Want to go somewhere fast? This is a great option! And it might look appealing, but don't lick the forbidden propellant... it won't end well",
+        "condition": "Vintage"
+      },
+      {
+        "name": "Raptor V3",
+        "description": "'Partially assembled engine'(Tory Bruno, ULA)... Nope, that's just how simplified it is.",
+        "condition": "Pushing the Limits of Physics"
+      }
+    ]
+  }

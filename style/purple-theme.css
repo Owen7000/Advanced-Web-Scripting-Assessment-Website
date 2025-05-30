@@ -1,0 +1,16 @@
+/* 
+==================================================================
+  Project Name: Space Related Business
+  File Name: purple-theme.css
+  Description: Defines the purple theme for the website
+  Author: Owen Plimer
+  Created On: 23 May 2025
+  Last Updated: 25 May 2025
+  Version: 1.0.0
+==================================================================
+*/
+
+:root {
+    --primary: #E1D5E7;
+    --secondary: #9673A6;
+}
